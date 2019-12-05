@@ -1,0 +1,7 @@
+public class test-A{
+
+    main(){
+		system.out.println("test-A");
+	}
+
+}
